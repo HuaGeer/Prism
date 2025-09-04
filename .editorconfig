@@ -40,7 +40,7 @@ end_of_line = lf
 [*.{props,targets}]
 indent_size = 2
 
-[*.xaml]
+[*.{xaml,axml}]
 indent_size = 2
 charset = utf-8-bom
 
